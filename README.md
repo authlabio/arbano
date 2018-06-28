@@ -1,6 +1,11 @@
 # Arbano - Free vuejs Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Arbano%20-%20Free%20Vue%20Admin%20Template%20&url=https://vuejsadmin.com/product/arbano-vuejs-admin-pro/&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
-### Check out our Vue Admin Templates and support Details
+
 [![Bootstrap Admin Templates Bundle](https://vuejsadmin.com/wp-content/uploads/edd/2018/06/arbano-cover.jpg)](https://vuejsadmin.com/product/arbano-vuejs-admin-pro/)
+
+### Check out VueJS Bootstrap Admin Dashboard Template ###
+
+# Get More [Free VueJS BootStrap Admin Templates](https://vuejsadmin.com) #
+
 Arbano is a Free Template which can be used for both personal and business purpose. The light version is free but if you love to get dedicated support with more options then you with the pro version. 
 
 **NOTE:** Please remember to **STAR** this project and **FOLLOW** [our Github](https://github.com/litonarefin/arbano) to keep you update with this template.
