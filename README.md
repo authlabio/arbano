@@ -10,8 +10,8 @@ Arbano is a Free Template which can be used for both personal and business purpo
 
 **NOTE:** Please remember to **STAR** this project and **FOLLOW** [our Github](https://github.com/litonarefin/arbano) to keep you update with this template.
 
-## [Arbano Free](https://vuejsadmin.com/product/arbano/)##
-## [Arbano Pro](https://vuejsadmin.com/product/arbano-vuejs-admin-pro/)##
+## [Arbano Free](https://vuejsadmin.com/product/arbano/) ##
+## [Arbano Pro](https://vuejsadmin.com/product/arbano-vuejs-admin-pro/) ##
 ## [Demo](https://demos.vuejsadmin.com/arbano/) ##
 ## [Documentation](https://docs.vuejsadmin.com/docs/arbano-vue-js-admin/) ##
 
